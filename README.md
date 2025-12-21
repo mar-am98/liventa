@@ -47,10 +47,16 @@ The project focuses on real-world functionality, complete user flows, and databa
 ## 📸 UI & Screens
 <img width="1366" height="953" alt="screencapture-liventa-vercel-app-2025-12-21-00_46_57" src="https://github.com/user-attachments/assets/b9ef2c0e-179b-46e2-9197-abe6ed8490f5" />
 
+<img width="1366" height="1822" alt="screencapture-liventa-vercel-app-properties-c0988eb3-a5a1-4ac7-96ea-2f509e89021a-2025-12-21-00_55_17" src="https://github.com/user-attachments/assets/739fd2b1-a43a-49cc-9fe2-6d1a1727df05" />
+
+<img width="1366" height="651" alt="screencapture-liventa-vercel-app-reservations-2025-12-21-00_52_38" src="https://github.com/user-attachments/assets/d5cb8734-36bf-4b32-a86b-f3a00b3b6326" />
+
+
 The application includes:
 - Homepage with property listings
 - Dynamic property detail pages
 - Authenticated user flows
+
 - Clean and modern layout focused on usability
 
 *(See live demo for full experience)*
