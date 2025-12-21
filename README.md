@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏠 Liventa
 
-## Getting Started
+**Liventa** is a full-stack web application inspired by rental and accommodation platforms, built with **Next.js** and **Supabase**.  
+The project focuses on real-world functionality, complete user flows, and database-driven features rather than static UI pages.
 
-First, run the development server:
+🌐 **Live Demo:** https://liventa.vercel.app  
+📦 **Repository:** https://github.com/mar-am98/Liventa
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- User authentication and account management (Clerk)
+- Property listings with dynamic routing
+- Real database integration using Supabase and Prisma
+- Responsive UI for desktop and mobile
+- End-to-end working flows (not mock or static pages)
+- Booking system
+- Favorites / wishlist
+- User profiles
+- Advanced search and filtering
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend
+- Next.js
+- React
+- TypeScript
+- CSS Tailwind
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend & Database
+- Supabase
+- Prisma
+- PostgreSQL
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Authentication
+- Clerk
 
-## Deploy on Vercel
+### Tools & Deployment
+- Git & GitHub
+- Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📸 UI & Screens
+<img width="1366" height="953" alt="screencapture-liventa-vercel-app-2025-12-21-00_46_57" src="https://github.com/user-attachments/assets/b9ef2c0e-179b-46e2-9197-abe6ed8490f5" />
+
+The application includes:
+- Homepage with property listings
+- Dynamic property detail pages
+- Authenticated user flows
+- Clean and modern layout focused on usability
+
+*(See live demo for full experience)*
+
+---
+
+## 🌟 Inspiration
+
+The visual structure of this project was inspired by publicly available rental platform clone designs.  
+The full implementation — including application structure, authentication, database logic, and deployment — was built independently as a learning project.
+
+---
+
+## 🧠 What I Learned
+
+- Building a real full-stack application from development to deployment
+- Connecting frontend components to a real database
+- Managing authentication and protected routes
+- Working with Prisma schemas and queries
+- Debugging and improving real application flows
+
+---
+
+## 👤 Author
+
+**Maram**  
+Full-stack web developer
+
+- GitHub: https://github.com/mar-am98
