@@ -29,6 +29,7 @@ The project focuses on real-world functionality, complete user flows, and databa
 - React
 - TypeScript
 - CSS Tailwind
+- shadcn/ui
 
 ### Backend & Database
 - Supabase
